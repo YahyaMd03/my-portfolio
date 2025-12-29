@@ -1,0 +1,20 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="codeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d946ef;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="12" fill="#0a0a0a" />
+
+  <!-- Code brackets with gradient -->
+  <path d="M20 32 L16 20 L24 24 L20 32 Z M44 32 L48 20 L40 24 L44 32 Z M32 20 L32 44" 
+        stroke="url(#codeGradient)" 
+        stroke-width="5" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none" />
+</svg>
+
+
